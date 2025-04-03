@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Tamil Mani S</h1>
+<h1 align="center">Hi 👋, I'm Sri Tamil Mani</h1>
 <h3 align="center">Engineering Graduate | Java & Spring Developer | UI/UX Designer</h3>
 
 <p align="center">
