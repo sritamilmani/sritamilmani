@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Tamil Mani</h1>
-<h3 align="center">Engineering Graduate | Java & Spring Developer | UI/UX Designer</h3>
+<h3 align="center">Java full stack developer</h3>
 
 <p align="center">
   <a href="https://isritamilmani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=amp&logoColor=white" /></a>
